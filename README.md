@@ -6,12 +6,24 @@ Serialization is the process of converting the state of an object into a form th
 
 In This project I will  create a CSV file in C# from a list or collection using the open source CsvHelper .NET Standard library and read from external CSV. 
 
-## Requirements
+## Extensions
+- C#
+- C# Dev Kit
+  
+
+## Installation 
+Create .Net core console app
+```
+dotnet new -o 'name of the project you want'
+```
+
 install the CSV helper library using this command:
-```
-Install - package Csvhelper
-```
-or
+For Visual Studio Code users:
+
 ```
 dotnet add package CsvHelper
+```
+For Visual Studio users, use package manager console command:
+```
+Install-package Csvhelper
 ```
