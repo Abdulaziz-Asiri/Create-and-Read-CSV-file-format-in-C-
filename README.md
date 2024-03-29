@@ -14,7 +14,7 @@ In This project I will  create a CSV file in C# from a list or collection using 
 ## Installation 
 Create .Net core console app
 ```
-dotnet new -o 'name of the project you want'
+dotnet new console
 ```
 
 install the CSV helper library using this command:
