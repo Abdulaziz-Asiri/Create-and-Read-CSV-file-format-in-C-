@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qg7dWbPLx+rBU/ygHBinmUdYwIPnvwuMi1jEhkhxbFIzmrQwF7tskNSdfCxCB2bZyCarBzPcpp4XVo3Umjeecw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abood\\Desktop\\Local-Repository\\Create-and-Read-CSV-file-format-in-C-Sharp\\Create-and-Read-CSV-file-format-in-C-Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abood\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
