@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Create-and-Read-CSV-file-format-in-C-Sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f1f2b2fabb5ced839e5e5c8393627966c370adf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1871a4643e479fbcf18979c1674681e9261c00e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Create-and-Read-CSV-file-format-in-C-Sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Create-and-Read-CSV-file-format-in-C-Sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
